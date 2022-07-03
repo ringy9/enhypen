@@ -1,0 +1,54 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "b429165f7183171b",
+            "max_int": "e52c9a17552d8b6d",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Vlad A4",
+            "photo": "https://i.postimg.cc/bwd86HrB/13098167911e1af09e75bb719768f07d.jpg",
+            "voice": "https://ringy9.github.io/enhypen/src_assets_videos_sunghoon.mp4",
+            "video": "https://ringy9.github.io/enhypen/src_assets_videos_sunghoon.mp4",
+            "stories": [
+              "https://i.postimg.cc/bwd86HrB/13098167911e1af09e75bb719768f07d.jpg",
+"https://i.postimg.cc/6q0wPMCD/1350827cdac37645a99cbe229d2285aa.jpg",
+"https://i.postimg.cc/yxBsnM3m/234b27e3b817f83fe3a84cf860944bcc.jpg",
+"https://i.postimg.cc/v8LQDZC3/44640be12e0f07d09d663ce6eea37ca8.jpg",
+"https://i.postimg.cc/hPDKmqBg/988cfd6946b220b1df4b3eaf0327e034.jpg",
+"https://i.postimg.cc/k4NdVTYB/bfdb58b401da6b1e1034d533b69df0be.jpg",
+"https://i.postimg.cc/8z3GxJrP/e247024f36929908fac4d28cd473a9f2.jpg",
+"https://i.postimg.cc/m2mBN6L9/E7-Ti1-KBUc-Aos-Xa6.jpg",
+"https://i.postimg.cc/J7qLMdBF/Evt-R59j-XEAEA3d4.jpg",
+"https://i.postimg.cc/xdzQQfKG/FIKu-Jp-Xa-QAAI5o.jpg",
+"https://i.postimg.cc/W3cvbBnB/FUn-RP5fag-AEu-VME.jpg",
+"https://i.postimg.cc/rsQXjKkT/tumblr-71bd1e72dde52844da44ca7100cbfaec-1ef515a6-1280.jpg",
+"https://i.postimg.cc/yxVC002n/tumblr-c55d259173fc56b6527e5ceebe1807ab-4dfa5a2e-1280.jpg"
+            ],
+            "wallpapers": [
+               "https://i.postimg.cc/bwd86HrB/13098167911e1af09e75bb719768f07d.jpg",
+"https://i.postimg.cc/6q0wPMCD/1350827cdac37645a99cbe229d2285aa.jpg",
+"https://i.postimg.cc/yxBsnM3m/234b27e3b817f83fe3a84cf860944bcc.jpg",
+"https://i.postimg.cc/v8LQDZC3/44640be12e0f07d09d663ce6eea37ca8.jpg",
+"https://i.postimg.cc/hPDKmqBg/988cfd6946b220b1df4b3eaf0327e034.jpg",
+"https://i.postimg.cc/k4NdVTYB/bfdb58b401da6b1e1034d533b69df0be.jpg",
+"https://i.postimg.cc/8z3GxJrP/e247024f36929908fac4d28cd473a9f2.jpg",
+"https://i.postimg.cc/m2mBN6L9/E7-Ti1-KBUc-Aos-Xa6.jpg",
+"https://i.postimg.cc/J7qLMdBF/Evt-R59j-XEAEA3d4.jpg",
+"https://i.postimg.cc/xdzQQfKG/FIKu-Jp-Xa-QAAI5o.jpg",
+"https://i.postimg.cc/W3cvbBnB/FUn-RP5fag-AEu-VME.jpg",
+"https://i.postimg.cc/rsQXjKkT/tumblr-71bd1e72dde52844da44ca7100cbfaec-1ef515a6-1280.jpg",
+"https://i.postimg.cc/yxVC002n/tumblr-c55d259173fc56b6527e5ceebe1807ab-4dfa5a2e-1280.jpg"
+            ]
+          
+        }
+    ]
+}
